@@ -14,3 +14,4 @@ user_pet = input("What is/was the name of your favorite pet?\n")
 
 print("Your band name is: " + user_city + " " + user_pet)
 
+# print("Try another name?")
