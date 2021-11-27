@@ -16,4 +16,7 @@ print("Your band name is: " + user_city + " " + user_pet)
 
 # print("Try another name?")
 # user_choice = input("Y/N")
+# if user type "Y"
+# repeat program
+# if user type "N"
 # print("Goodbye!")
