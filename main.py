@@ -15,6 +15,7 @@ user_pet = input("What is/was the name of your favorite pet?\n")
 print("Your band name is: " + user_city + " " + user_pet)
 
 # print("Try another name?")
+user_choice = input("Try another name (Y/N)?\n")
 # user_choice = input("Y/N")
 # if user type "Y"
 # repeat program
