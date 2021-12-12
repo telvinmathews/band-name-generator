@@ -15,7 +15,6 @@ def band_name_gen():
 
     print("Your band name is: " + user_city + " " + user_pet)
 
-# print("Try another name?")
 def user_selection():
     choice_one = "Y"
     choice_two = "N"
@@ -25,14 +24,5 @@ def user_selection():
     else:
         print("Goodbye!")
 
-# user_choice = input("Y/N")
-# if user type "Y"
 band_name_gen()
 user_selection()
-
-
-
-# repeat program
-
-# if user type "N"
-# print("Goodbye!")
